@@ -1,3 +1,7 @@
+# 6/2/24 Update:Project Completed, Improvements need be made.
+The model is not very accurate but it does train itself on the data.
+Main takeaways: How to handle datasets with labels in a csv file and create custom datasets using torch.utils.datasets and dataloaders accordingly. 
+
 # Eye_Disease_Classification_via_ML
 This is an educational practice project for Machine Learning in PyTorch
 
