@@ -1,4 +1,4 @@
-# 6/2/24 Update:Project Completed, Improvements need be made.
+# 6/2/24 Update: Project Completed, Improvements need be made.
 The model is not very accurate but it does train itself on the data.
 Main takeaways: How to handle datasets with labels in a csv file and create custom datasets using torch.utils.datasets and dataloaders accordingly. 
 
